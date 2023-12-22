@@ -1,0 +1,19 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "0.0.1",
+  "description": "Collection of notes, examples, and references for learning all things JavaScript and beyond",
+  "main": "index.js",
+  "authors": {
+    "name": "Jacob",
+    "email": ""
+  },
+  "repository": "https://github.com/jacoburantowka/data-structures-and-algorithms/data-structures-and-algorithms",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
